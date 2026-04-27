@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="50" height="50"/>
   <img src="./express.svg" alt="express" width="70" height="50"/>
@@ -49,21 +49,21 @@
 </p>
 
 ### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://logo.svgcdn.com/devicon/nextjs-original.png" alt="nextjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
 </p>
 
 ### Automation & AI
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="50" height="50"/>
   <img src="https://cdn-1.webcatalog.io/catalog/chatgpt/chatgpt-icon-filled-256.png?v=1776040532249" alt="openai" width="50" height="50"/>
 </p>
 
 ### Databases & Messaging
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
@@ -72,7 +72,7 @@
 </p>
 
 ### DevOps & Tools
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
