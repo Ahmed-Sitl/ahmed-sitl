@@ -29,10 +29,11 @@
 
 <div style="display:flex; gap:25px; align-items:center; width="200">
   <a href="https://linkedin.com/in/ahmed-nabil28" target="_blank">
-    <img src="./linkedin.svg" alt="linkedin" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+
   <a href="mailto:bplahmed28@gmail.com" target="_blank">
-    <img src="./google.svg" alt="gmail" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
 </div>
 
@@ -43,45 +44,47 @@
 ### Backend
 
 <p style="display:flex; gap:25px; align-items:center;">
-  <img src="./nodejs.svg" alt="nodejs" width="50" height="50"/>
-  <img src="./nestjs.svg" alt="nestjs" width="50" height="50"/>
-  <img src="./express.svg" alt="express" width="70" height="50"/>
-  <img src="./python.svg" alt="python" width="50" height="50"/>
+<img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="50"/>
+<img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
 ### Frontend
 
 <p style="display:flex; gap:25px; align-items:center;">
-  <img src="./react.svg" height="40"/>
-  <img src="./nextjs.svg" height="40"/>
-  <img src="./typescript.svg" height="40"/>
-  <img src="./tailwindcss.svg" alt="tailwind" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+
 </p>
 
 ### Automation & AI
 
-<p style="display:flex; gap:25px; align-items:center;">
-  <img src="./n8n.ico" alt="n8n" width="50" height="50"/>
-  <img src="./chatgpt.png" alt="openai" width="50" height="50"/>
+<p style="display:flex; gap:25px; align-items:center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
 </p>
 
 ### Databases & Messaging
 
 <p style="display:flex; gap:25px; align-items:center;">
-  <img src="./postgresql.svg" alt="postgresql" width="50" height="50"/>
-  <img src="./mongodb.svg" alt="mongodb" width="50" height="50"/>
-  <img src="./redis.svg" alt="redis" width="50" height="50"/>
-  <img src="./kafka.svg" alt="kafka" width="50" height="50"/>
-  <img src="./rabbitmq.svg" alt="rabbitmq" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50"/>
 </p>
 
 ### DevOps & Tools
 
 <p style="display:flex; gap:25px; align-items:center;">
-  <img src="./docker.svg" alt="docker" width="50" height="50"/>
-  <img src="./git.svg" alt="git" width="50" height="50"/>
-  <img src="./linux.svg" alt="linux" width="50" height="50"/>
-  <img src="./firebase-svgrepo-com.svg" alt="firebase" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
 </p>
 
 ---
