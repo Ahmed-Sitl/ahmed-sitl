@@ -27,15 +27,14 @@
 
 ## 🌐 Connect With Me
 
-<div style="display:flex; gap:25px; align-items:center; width="200">
-  <a href="https://linkedin.com/in/ahmed-nabil28" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<p align="left">
+  <a href="https://linkedin.com/in/ahmed-nabil28">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="mailto:bplahmed28@gmail.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <a href="mailto:bplahmed28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -43,28 +42,27 @@
 
 ### Backend
 
-<p style="display:flex; gap:25px; align-items:center;">
-<img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="50"/>
-<img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="50"/>
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-  width="50" 
-  style="background-color: white !important; padding: 5px; border-radius: 100px;" 
-/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py" />
+  </a>
 </p>
 
 ### Frontend
 
-<p style="display:flex; gap:25px; align-items:center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+  </a>
 </p>
 
 ### Automation & AI
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,openai" />
+  </a>
+</p>
 
 <p style="display:flex; gap:25px; align-items:center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="60"  style="background-color: white !important; padding: 5px; border-radius: 20px;" 
@@ -77,22 +75,18 @@
 
 ### Databases & Messaging
 
-<p style="display:flex; gap:25px; align-items:center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"   style="background-color: white !important; padding: 5px; border-radius: 25px;" 
-/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq" />
+  </a>
 </p>
 
 ### DevOps & Tools
 
-<p style="display:flex; gap:25px; align-items:center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,firebase" />
+  </a>
 </p>
 
 ---
