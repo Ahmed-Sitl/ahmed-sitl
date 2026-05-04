@@ -46,7 +46,11 @@
 <p style="display:flex; gap:25px; align-items:center;">
 <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="50"/>
 <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+  width="50" 
+  style="background-color: white !important; padding: 5px; border-radius: 100px;" 
+/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
@@ -63,9 +67,12 @@
 ### Automation & AI
 
 <p style="display:flex; gap:25px; align-items:center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="60"  style="background-color: white !important; padding: 5px; border-radius: 20px;" 
+/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60"   style="background-color: white !important; padding: 5px; border-radius: 20px;" 
+/>
+
 </p>
 
 ### Databases & Messaging
@@ -74,7 +81,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"   style="background-color: white !important; padding: 5px; border-radius: 25px;" 
+/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50"/>
 </p>
 
